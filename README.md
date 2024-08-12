@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, C#.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahesh-Pawar-02](https://github.com/Mahesh-Pawar-02)
+- 👨‍💻 All of my projects are available at [github.com/Mahesh-Pawar-02](https://github.com/Mahesh-Pawar-02)
 
 - 📫 How to reach me **maheshpawar30627@gmail.com**
 
