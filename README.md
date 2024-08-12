@@ -3,16 +3,17 @@
 <h3 align="center">Tech Enthusiast Software Developer | Expert in C, C++, Java, Python, JavaScript | AI, ML & Web Automation Specialist |</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "coding_gif.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-pawar-02&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-pawar-02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-pawar-02" alt="mahesh-pawar-02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahesh8108" target="blank"><img src="https://img.shields.io/twitter/follow/mahesh8108?logo=twitter&style=for-the-badge" alt="mahesh8108" /></a> </p>
 
 - 🌱 I’m currently learning **Django, C#.NET**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Mahesh-Pawar-02](https://github.com/Mahesh-Pawar-02)
+
 - 📫 How to reach me **maheshpawar30627@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
