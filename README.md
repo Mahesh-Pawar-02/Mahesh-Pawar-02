@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Mahesh-Pawar-02](https://github.com/Mahesh-Pawar-02)
 
-- 📫 How to reach me **maheshpawar30627@gmail.com**
+- 📫 How to reach me **mahesh.dinkar.pawar.02@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
 
