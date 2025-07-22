@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mahesh-Pawar-02/Mahesh-Pawar-02/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mahesh Pawar</h1>
-<h3 align="center">Tech Enthusiast Software Developer | Expert in C, C++, Java, Python, JavaScript | AI, ML & Web Automation Specialist |</h3>
+<h3 align="center">Tech Enthusiast Software Developer | Expert in C, C++, Java, Python, JavaScript | Angular NodeJS MongoDB SQL| AI, ML & Web Automation Specialist |</h3>
 
 <img align = "right" alt = "coding" width = "350" src = "coding_gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-pawar-02&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-pawar-02" /> </p>
