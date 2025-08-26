@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahesh8108" target="blank"><img src="https://img.shields.io/twitter/follow/mahesh8108?logo=twitter&style=for-the-badge" alt="mahesh8108" /></a> </p>
 
-- 🔭 I’m currently working on [Test Report Generation System](https://github.com/Mahesh-Pawar-02/test_report_system)
+- 🔭 I’m currently working on [Job_Card System](https://github.com/Mahesh-Pawar-02/Job-Card)
 
 - 🌱 I’m currently learning **Django, C#.NET**
 
